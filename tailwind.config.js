@@ -8,6 +8,9 @@ module.exports = {
             colors: {
                 blueGray: colors.blueGray,
             },
+            fontFamily: {
+                nunito: ["Nunito"],
+            },
         },
     },
     variants: {
